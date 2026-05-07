@@ -4,7 +4,7 @@ MacOS app that detects whether CrossOver is running, fetches the Steam user's cu
 
 Requires Steam API key and SteamID64
 
-Get Steam API Key Request: https://steamcommunity.com/dev/apikey
+Get Steam API Key: https://steamcommunity.com/dev/apikey
 
 Get SteamID64:
   1. Open the Steam app and log in.
