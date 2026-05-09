@@ -1,10 +1,10 @@
 CrossOver Steam Presence
 
-MacOS app that detects whether CrossOver is running, fetches the Steam user's current game, and updates activity on Discord.
+A small macOS app that publishes Steam games running under CrossOver to Discord activity status.
 
-Requires Steam API key and SteamID64
+Requires Steam API key and your numeriacal Steam ID (SteamID64)
 
-Get Steam API Key Request: https://steamcommunity.com/dev/apikey
+Get Steam API Key: https://steamcommunity.com/dev/apikey
 
 Get SteamID64:
   1. Open the Steam app and log in.
